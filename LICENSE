@@ -1,0 +1,24 @@
+LICENCIA DE USO ACADÉMICO Y AUDITORÍA CIENTÍFICA (Modelo MUS-AG)
+
+Copyright (c) 2026 Ricardo Andrés Araya Soza
+
+Todos los derechos reservados.
+
+El presente código fuente ("Software"), que incluye los motores de simulación y algoritmos del Modelo Universal Superfluido (MUS-AG), es propiedad intelectual exclusiva de Ricardo Andrés Araya Soza.
+
+Se concede permiso, de forma gratuita, a cualquier persona u organización académica que obtenga una copia de este Software, para tratar el Software sin restricciones con los SIGUIENTES FINES EXCLUSIVOS:
+
+1. Auditoría académica y científica.
+2. Comprobación de la falsabilidad y reproducibilidad del modelo teórico MUS-AG.
+3. Ejecución y compilación local con propósitos de estudio e investigación no comercial.
+
+RESTRICCIONES ESTRICTAS:
+Esta licencia prohíbe expresa y estrictamente las siguientes acciones sin el consentimiento previo, formal y por escrito del autor:
+
+1. USO COMERCIAL: Queda prohibida la explotación comercial, monetización o integración de este Software en productos, servicios o plataformas comerciales de cualquier índole.
+2. DISTRIBUCIÓN MODIFICADA: Queda prohibida la distribución, sublicenciamiento o publicación de versiones modificadas, alteradas o derivadas de este Software.
+3. ENTRENAMIENTO DE IA: Queda estrictamente prohibido el uso, escaneo, procesamiento o ingestión de este código fuente y sus algoritmos derivados para el entrenamiento, ajuste fino (fine-tuning) o validación de modelos de lenguaje grandes (LLMs), redes neuronales u otros sistemas de Inteligencia Artificial, sean de código abierto o comerciales.
+
+El Software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita. En ningún caso el autor será responsable por reclamos, daños u otras responsabilidades, ya sea en una acción de contrato, agravio o de otro tipo, que surjan de o en conexión con el Software o el uso u otros tratos en el Software.
+
+Para solicitudes de uso comercial, permisos de adaptación o colaboración investigativa institucional, debe contactarse directamente con el titular de los derechos: dedoxy1@gmail.com.
